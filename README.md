@@ -1,7 +1,8 @@
 # hacktober2021_cek
 
 A simple website created to teach students the basics of version control in software development using git and Github for hacktoberfest2021
-
+> visit here
+[hacktober2021_cek](https://alwinjacobthomas.github.io/hacktober2021_cek/)
 ## Pre-requisites
 
 - Install Git on your computer. Instructions for installing Git on:
